@@ -7,6 +7,7 @@
   </head>
   <body>
     <h1>A ver que sale</h1>
+    <h2>A ver el h2 que hace</h2>
     <p>This is my page</p> 
     <p>espacios</p>
     <p>Parrafo en <strong>negrita</strong></p>
