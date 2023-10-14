@@ -2,7 +2,10 @@
 <html lang="en-US">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
+    <meta name="Moisés Mota" content="Página de prueba"/>
+    <meta
+      name="description"
+      content="A ver que es lo que se ve aqui." />
     <title>My test page</title>
   </head>
   <body>
