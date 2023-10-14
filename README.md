@@ -9,7 +9,7 @@
     <h1>A ver que sale</h1>
     <p>This is my page</p>
 
-    <p>Espacios</>
+    <p>Espacios</p>
       
     <p>Parrafo en <strong>negrita</strong></p>
     <a href="https://es.pornhub.com/" title="Pajillero">Pagina porno.</a>
