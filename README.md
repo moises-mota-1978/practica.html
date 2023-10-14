@@ -6,6 +6,15 @@
     <meta
       name="description"
       content="A ver que es lo que se ve aqui." />
+    <meta
+      property="og:image"
+      content="https://developer.mozilla.org/mdn-social-share.png" />
+    <meta
+      property="og:description"
+      content="The Mozilla Developer Network (MDN) proporciona información sobre tecnologías Open Web, incluidas HTML, 
+      CSS y APIs para ambos sitios web y aplicaciones HTML5. También documenta productos Mozilla, como el sistema operativo Firefox." />
+    <meta property="og:title" content="Mozilla Developer Network" />
+
     <title>My test page</title>
   </head>
   <body>
