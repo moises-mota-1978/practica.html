@@ -14,9 +14,11 @@
       content="The Mozilla Developer Network (MDN) proporciona información sobre tecnologías Open Web, incluidas HTML, 
       CSS y APIs para ambos sitios web y aplicaciones HTML5. También documenta productos Mozilla, como el sistema operativo Firefox." />
     <meta property="og:title" content="Mozilla Developer Network" />
-
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
     <title>My test page</title>
   </head>
+
+  
   <body>
     <h1>A ver que sale</h1>
     <h2>A ver el h2 que hace</h2>
