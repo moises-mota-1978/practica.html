@@ -24,15 +24,96 @@
     <h2>A ver el h2 que hace</h2>
     <p>This is my page</p> 
     <p>espacios</p>
+    <p>Para hacer un parrafo en negrita, abres y cierras con "p" y el parrafo en negrita lo haces abriendo y cerrando con "strong"</p>
     <p>Parrafo en <strong>negrita</strong></p>
-    <a href="https://es.pornhub.com/" title="Pajillero">Pagina porno.</a>
+    <a href="https://es.pornhub.com/" title="Pajillero">Pagina educacion carnal.</a>
     <p></p>
     <img
       src="https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen-800x419.jpg" />
-    <p>Si quiero que un texto no se vea, lo pongo de la siguiente forma</p>
+    <p>Si quiero que un texto no se vea, lo pongo de la siguiente forma, abriendo y cerrando con "!--" </p>
     <!-- <p>Con los signos de exclamacion, te sirve para anotaciones de la pagina</p> -->
- 
-  
+
+<p>
+  Para hacer listas se abre y cierra con "ul" y despues se abre y cierra con "li" delante de cada elemento para que aparezca el punto</p>
+
+<ul>
+  <li>leche</li>
+  <li>huevos</li>
+  <li>pan</li>
+  <li>hummus</li>
+</ul>
+<p>
+  Para hacer listas numeradas se abre y cierra con "ol" y despues se abre y cierra con "li" delante de cada elemento para que aparezca el punto</p>
+<ol>
+  <li>Conduce hasta el final de la calle</li>
+  <li>Gira a la derecha</li>
+  <li>Sigue derecho por las dos primeras glorietas</li>
+  <li>Gira a la izquierda en la tercer glorieta</li>
+  <li>El colegio está a tu derecha, 300 metros más adelante</li>
+</ol>
+<p>Para hacer una lista anidadada abres y cierras con "ol", antes de cerrar una "li", abres una "ul" y luego cierras la "ul" y la "li" y la "ol"</p>
+<ol>
+  <li>Pela el ajo y picarlo en trozos gruesos.</li>
+  <li>
+    Retira las semillas y el tallo del pimiento, y cortarlo en trozos gruesos.
+  </li>
+  <li>Mete todos los alimentos en un procesador de alimentos.</li>
+  <li>
+    Procesa todos los ingredientes hasta conseguir una pasta.
+    <ul>
+      <li>Si deseas un hummus "grueso", procésalo corto tiempo.</li>
+      <li>Pica durante más tiempo si se desea obtener un hummus "suave".</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Para hacer cursiva, abres y cierras con "p" y el caracter que quieres en cursiva lo abres y cierras con "em"</p>
+<p>Me <strong><em>alegro</em></strong> de que no llegues <strong><em>tarde</em></strong>.</p>
+<p>aunque mezcles "strong" y "em", si abres y cierras delante de la palabra que quieres, saldra en negrita y cursiva</p>
+<p>Me <em><strong>alegro</em></strong> de que no llegues <strong><em>tarde</em></strong>.</p>
+
+<p>
+  Crea un enlace a
+  <a
+    href="https://www.mozilla.org/es-ES/"
+    title="El mejor lugar para encontrar más información acerca de la misión de Mozilla
+          y cómo contribuir"
+    >la página de inicio de Mozilla</a
+  >.
+<p/>
+<p> Y ahora otra pagina 
+  <a href="https://www.fakings.es/" title="pajillero ataca de nuevo">a fakings</a>
+</p>
+
+<p>Como hemos mencionado anteriormente, puedes convertir cualquier contenido en un enlace, incluso Elementos de bloque y elementos en línea. Si quieres convertir una imagen en un enlace, simplemente usa el elemento "a" encerrando el elemento "img" entre "a> y "/a>.</p>
+<a href="https://www.mozilla.org/es-ES/">
+  <img
+    src="https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen-800x419.jpg"
+    alt="Logotipo de Mozilla que dirige a la página inicial de Mozilla" 
+   />
+</a>
+
+
+  <h1>El agujero aplastante</h1>
+
+<p>Por Chris Mills</p>
+
+<h2>Capítulo 1: La oscura noche</h2>
+
+<p>
+  Era una noche oscura. En algún lugar, un búho ululó. La lluvia azotó el ...
+</p>
+
+<h2>Capítulo 2: El silencio eterno</h2>
+
+<p>Nuestro protagonista ni susurrar pudo al ver esa sombría figura ...</p>
+
+<h3>El espectro habla</h3>
+
+<p>
+  Habían pasado varias horas más, cuando de repente el espectro se incorporó y
+  exclamó: "¡Por favor, ten piedad de mi alma!"
+</p>
   
   </body>
 </html>
